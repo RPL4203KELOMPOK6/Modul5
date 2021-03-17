@@ -1,0 +1,74 @@
+#nav-item a {
+    color: #000000;
+}
+.navbar-dark{
+    background-color: rgb(0, 154, 214);
+}
+#login {
+    margin-top: 50px;
+    width: 30%;
+    margin-bottom: 80px;
+}
+
+#registrasi {
+    margin-top: 50px;
+    width: 50%;
+    margin-bottom: 80px;
+}
+
+#carousel {
+    margin-top: 0px;
+    padding-top: 0px;
+
+}
+header{
+    margin-bottom: -3px;
+    padding-bottom: 0px;
+}
+#cari-album{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    width: 60%
+}
+
+#cari-album span{
+    padding-top: 15px;
+    font-size: 14px;
+}
+
+.checked {
+    color: gold;
+}
+
+
+#pilihan-album {
+    margin-bottom: 100px;
+}
+
+#nama-album{
+    color: black;
+}
+
+#harga{
+    font-size: 20px;
+}
+#card-gambar{
+    height: 170px;
+}
+#judul-album{
+    font-size: 15px;
+}
+
+
+
+
+#testimonial{
+    height: 30px;
+}
+
+#gambar-why img{
+    
+    margin-bottom: 15px;
+    height: 100px;
+}
+
